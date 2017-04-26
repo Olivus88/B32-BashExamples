@@ -5,3 +5,5 @@ declare -a  nom=(Night of the living dead)
 
 echo ${nom[0]}
 
+#Pour afficher la taille du tableau
+echo ${#nom[@]}
